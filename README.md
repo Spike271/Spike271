@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" alt="git" style="padding-right:10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" alt="mysql" style="padding-right:10px" />
 </p>
+
 #
 
 <img src="https://github-readme-stats.vercel.app/api?username=Spike271&show_icons=true&locale=en&theme=synthwave" alt="Spike271"/>
