@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Spike271/Spike271">Mayank Sabnani 🕊️🌾</a></h1>
+<h1 align="center"><a href="https://github.com/Spike271/Spike271">Mayank 🕊️🌾</a></h1>
 
 <h3 align="center">Love building desktop apps</h3>
 
