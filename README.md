@@ -1,7 +1,5 @@
 <h1 align="center"><a href="https://github.com/Spike271/Spike271">Mayank 🕊️🌾</a></h1>
 
-<h3 align="center">Love building desktop apps</h3>
-
 <p align="center">
   <a href="https://github.com/Spike271"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Spike271?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Spike271"><img alt="views" title="Profile Views" src="https://komarev.com/ghpvc/?username=Spike271&label=Profile%20Views&color=ff3366&style=for-the-badge"/></a>
