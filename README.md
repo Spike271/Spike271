@@ -6,19 +6,17 @@
   <a href="https://github.com/Spike271?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Spike271?color=00cc00&style=for-the-badge&labelColor=ff33&logo=star"/></a>
 
 </p>
-  
----
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" alt="Java" style="padding-right:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" alt="CPP" style="padding-right:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" alt="C" style="padding-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="60" alt="CMake" style="padding-right:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" alt="html" style="padding-right:10px" />            
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" alt="linux" style="padding-right:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" alt="git" style="padding-right:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" alt="mysql" style="padding-right:10px" />
-</p>
+
+## Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-F39C12)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+Also: Paging 3, KSP, Coroutines/Flow, MVI, Java, C++ (raylib), Python
 
 #
 
